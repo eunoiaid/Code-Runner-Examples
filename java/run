@@ -1,2 +1,2 @@
 #!/bin/bash
-/usr/local/openjdk13/bin/java Main
+/usr/local/openjdk22/bin/java Main
